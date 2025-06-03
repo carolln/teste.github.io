@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2025-03-06 23:48:05
 layout: post
 title: Curso de Iniciação a Demonstrações Matemáticas
 subtitle: 'yippieeeeeeee'
