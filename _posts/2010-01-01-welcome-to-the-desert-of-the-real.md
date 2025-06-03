@@ -17,11 +17,9 @@ tags:
 author: mranderson
 paginate: true
 ---
-Esse curso foi desenvolvido por 5 entusiastas da área de Fundamentos Matemáticos para a Computação (e com muuuita ajuda do nosso querido tutor Umberto) para te encantar com essa área também!
-Vamos passar o conteúdo em 5 dias (5 episódios!), introduzindo o conceito de lógica, de demonstrações matemáticas, de 
-Dividimos os materiais a serem passados em 5 dias diferentes, alguns com
-E, no fim das contas, vocês mandarão um projeto final mostrando tudo o que aprenderam ao longo dessa semana (veremos sobre isso mais pra a frente........!!)
-É importante que vocês tentem tanto vir todos os dias quanto fazer todas as tarefas (para entenderem melhor o assunto e para conseguirem ganhar o certificado no fim do curso!)
+bblablbalbfbalbdfla cursooooooo blabla bal
+
+yippieeeeeeeee
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 olha eu aqui olha eu aqui olha eu aqui
